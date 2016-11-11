@@ -1,0 +1,8 @@
+## Interface: 70000
+## Author: RealKhai
+## Title: ImpliedTarget_ElvUI
+## Notes: Compatibility support for ElvUI.
+## Dependencies: ElvUI, ImpliedTarget
+## X-Child-Of: ImpliedTarget
+
+Core.lua
