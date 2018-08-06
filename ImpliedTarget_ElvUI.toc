@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 80000
 ## Author: RealKhai
 ## Title: ImpliedTarget_ElvUI
 ## Notes: Compatibility support for ElvUI.
